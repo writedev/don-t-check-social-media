@@ -2,7 +2,7 @@
 
 To use the Chrome extension, follow these steps:
 
-1. Download the first version of ‘don-t-check-social-media’.
+1. Download the first version of ‘[whritedev/don-t-check-social-media](https://github.com/whritedev/don-t-check-social-media)’.
 
 2. Go to manage extension.
 
