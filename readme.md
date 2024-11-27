@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/writedev/don-t-check-social-media/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/writedev/don-t-check-social-media/total?style=for-the-badge)
 
 </div>
 
