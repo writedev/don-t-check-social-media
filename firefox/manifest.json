@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Bloqueur de réseaux sociaux",
+  "name": "don't check social media",
   "version": "2.2",
-  "description": "Bloque TikTok, X et Instagram et affiche un message démotivant",
+  "description": "Blocks TikTok, X and Instagram and displays a demotivating message",
   "browser_specific_settings": {
     "gecko": {
       "id": "example@gmail.com",
