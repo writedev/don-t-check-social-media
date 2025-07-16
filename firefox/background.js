@@ -1,4 +1,3 @@
-
 const blockedSites = [
   "*://*.tiktok.com/*",
   "*://*.twitter.com/*",
@@ -6,11 +5,9 @@ const blockedSites = [
   "*://*.instagram.com/*",
 ];
 
-const redirectUrl = browser.runtime.getURL("blocked.html");
-
-browser.webRequest.onBeforeRequest.addListener(
+chrome.webRequest.onBeforeRequest.addListener(
   function (details) {
-    return { redirectUrl: redirectUrl };
+    return { redirectUrl: chrome.runtime.getURL("blocked.html") };
   },
   { urls: blockedSites },
   ["blocking"]
